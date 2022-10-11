@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+}
+
+body {
+    width: 100vw;
+    height: 125vh;
+}
+
+header {
+    width: 100%;
+    height: 100px;
+    background-color: #dadada;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.prof-pic {
+    height: 75px;
+    width: 75px;
+    background-color: #5c8fdd;
+    margin-left: 10px;
+}
+
+.words {
+    padding: 40px;
+}
+
+.blue {
+    background-color: #5c8fdd;
+    width: 100%;
+    height: 25%;
+}
+
+.teal {
+    background-color: #7ae1c3;
+    width: 100%;
+    height: 25%;
+}
+
+.yellow-green {
+    background-color: #c3e792;
+    width: 100%;
+    height: 25%;
+}
+
+.yellow {
+    background-color: #f6e754;
+    width: 100%;
+    height: 25%;
+}
